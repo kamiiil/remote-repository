@@ -1,0 +1,11 @@
+commit d1a693ffb9c087dbdc6dd7b876063f9fcb51c160
+Author: Kamil Krukar <Kamil.krukar999@gmail.com>
+Date:   Tue Jun 7 19:42:00 2022 +0200
+
+    ignorowanie
+
+commit 0deb956243fa88cb55f73ed2c3a5f0e357ed3ca3
+Author: Kamil Krukar <Kamil.krukar999@gmail.com>
+Date:   Tue Jun 7 18:25:46 2022 +0200
+
+    ciuchcia
